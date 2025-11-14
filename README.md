@@ -1,4 +1,6 @@
-site is live at https://sangardev.github.io/spotify/
+## Live Demo
+You can view this project live here: [Spotify Clone Live](https://sangardev.github.io/spotify/)
+
 
 Spotify 
 
