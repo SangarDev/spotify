@@ -1,11 +1,13 @@
 ## Live Demo
+https://sangardev.github.io/spotify/
+Last deployed by @SangarDev SangarDev
 You can view this project live here: [Spotify Clone Live](https://sangardev.github.io/spotify/)
 
 
 Spotify 
 
 
-This is a front-end replica of Spotify built using HTML and CSS. It is a practice project aimed at improving my web development skills, focusing on layout, responsive design, and UI components. While it looks like Spotify, it does not play real music—it's purely for design and learning purposes.
+* This is a front-end replica of Spotify built using HTML and CSS. It is a practice project aimed at improving my web development skills, focusing on layout, responsive design, and UI components. While it looks like Spotify, it does not play real music—it's purely for design and learning purposes.
 
 Overview
 The website features a clean, modern design inspired by Spotify’s interface. Users can explore:
