@@ -2,25 +2,25 @@
 You can view this project live here:https://sangardev.github.io/spotify/
  
 
-
 Spotify 
+A front-end HTML + CSS Spotify replica built to practice responsive layouts, interactive UI elements, and music-themed design. This project is purely for learning purposes—it does not play real music.
 
-This is a front-end replica of Spotify built using HTML and CSS. It is a practice project aimed at improving my web development skills, focusing on layout, responsive design, and UI components. While it looks like Spotify, it does not play real music—it's purely for design and learning purposes.
-
-Overview
-The website features a clean, modern design inspired by Spotify’s interface. Users can explore:
-
+Features
 Music cards showcasing songs or albums
 
-A music player panel layout
+Music player panel layout
 
-Hover effects and interactive UI elements
+Hover effects and interactive UI components
 
-Responsive design for desktops and smaller screens
+Responsive design for desktop and smaller screens
 
-Technologies
+Sidebar-like sections for navigation
+
+Tech Stack
 HTML5
 
 CSS3
 
 FontAwesome icons
+
+Google Fonts
